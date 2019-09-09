@@ -1,0 +1,6 @@
+This is a spring boot application 
+
+Dependencies:
+			Maven
+			tomcat
+			mysql
